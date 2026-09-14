@@ -13,9 +13,9 @@
 
 |Comandos utilizados|Explicación breve de la función de cada comando|
 |-------------------|-----------------------------------------------|
-git init|Inicializa un repositorio de Git dentro de una carpeta.
-git branch -M main|Cambia el nombre de la rama actual a main.
-git status|Muestra el estado actual del repositorio y los archivos que tienen cambios.
+git init|Inicializa un repositorio de Git dentro de una carpeta
+git branch -M main|Cambia el nombre de la rama actual a main
+git status|Muestra el estado actual del repositorio y los archivos que tienen cambios
 git add .|Agrega los archivos modificados al área de preparación 
 git commit -m "Primer commit"|Registra los cambios preparados en el historial del repositorio
 git remote add origin URL_DEL_REPOSITORIO|Agrega un repositorio remoto y lo identifica con el nombre origin
