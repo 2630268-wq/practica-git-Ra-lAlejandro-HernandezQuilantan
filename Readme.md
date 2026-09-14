@@ -42,7 +42,7 @@ git commit -m "Primer commit"
 
 ### Explicación de cómo se vinculó el repositorio local con GitHub
 
-#### Primero hice un repositorio público y vacío en GitHub. Después se use la URL del repositorio para establecer la conexión entre el repositorio local y el remoto
+#### Primero hice un repositorio público y vacío en GitHub. Después use la URL del repositorio para establecer la conexión entre el repositorio local y el remoto
 
 ~~~
 git remote add origin URL_DEL_REPOSITORIO
